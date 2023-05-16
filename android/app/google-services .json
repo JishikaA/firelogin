@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682593974233",
+    "project_id": "login-c4301",
+    "storage_bucket": "login-c4301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682593974233:android:87b0ff59f2ff8ddc218bc8",
+        "android_client_info": {
+          "package_name": "com.example.firelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682593974233-72bngu098f57avtfl6mfbm0208vdpdtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA385OaFZY3Ejl-DC_opiQzV5KeVE5MO0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682593974233-72bngu098f57avtfl6mfbm0208vdpdtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
